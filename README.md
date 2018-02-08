@@ -143,5 +143,7 @@ First, the last two points of the previous trajectory (or the car position if th
 
 ### References
 The course material was used as a reference along with the following previous students Github repos:
+
 [Darien](https://github.com/darienmt/CarND-Path-Planning-Project-P1)
+
 [Jeremy Shannon](https://github.com/jeremy-shannon/CarND-Path-Planning-Project)
