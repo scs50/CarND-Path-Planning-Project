@@ -4,7 +4,7 @@ Self-Driving Car Engineer Nanodegree Program
 ![Driving](15_miles.png)
 
 ### Simulator.
-You can download the Term3 Simulator which contains the Path Planning Project from the [releases tab (https://github.com/udacity/self-driving-car-sim/releases).
+You can download the Term3 Simulator which contains the Path Planning Project from the releases tab (https://github.com/udacity/self-driving-car-sim/releases).
 
 ### Overview
 My main goal of this project was to have the vehicle navigate around the virtual highway as fast as possible. I definately put an emphasis on speed with safety/comfort second. The vehicle does not have any collisions and does not violate any of the jerk/accel limits, but it also doesn't make any friends while driving. This was done by focusing on using steering to avoid other vehicles before having to brake. A preview distance was used to see which adjacent lane had the furthest distance to the next vehicle and then this lane was selected to maneuver around the slower traffic.
